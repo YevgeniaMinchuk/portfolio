@@ -322,7 +322,7 @@ nav .fa-solid{
     display: none;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 900px) {
     #header{
         background-image: url(images/bg-small.png);
     }
@@ -341,8 +341,8 @@ nav .fa-solid{
         display: block;
         font-size: 30px;
         float: right;
-        margin-right: 0.5em;
-        margin-top: 30px;
+        margin-right: 0.6em;
+        margin-top: 28px;
     }
     nav ul{
         background: #437118;
