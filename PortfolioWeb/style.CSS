@@ -13,7 +13,7 @@ body {
 }
 #header {
     width: 100%;
-    height: 100vh;
+    height: 110vh;
     background-image: url(images/bg.png);
     background-size: cover;
     background-position: center;
@@ -341,8 +341,8 @@ nav .fa-solid{
         display: block;
         font-size: 30px;
         float: right;
-        margin-right: 0.6em;
-        margin-top: 28px;
+        margin-right: 1em;
+        margin-top: 0.5em;
     }
     nav ul{
         background: #437118;
